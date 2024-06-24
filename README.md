@@ -67,6 +67,5 @@ I am a dynamic Full-Stack Java Engineer with hands-on experience in developing s
 
 ## 📧 Contact
 - **Email**: hpssisodia15@gmail.com
-- **Phone**: +91 9261224235
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harendra2000pss&style=flat-square&color=blue)
