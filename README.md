@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hpssisodia15)
 [![GitHub followers](https://img.shields.io/github/followers/harendra2000pss?label=Follow&style=social)](https://github.com/harendra2000pss)
-[![Website](https://img.shields.io/badge/Portfolio-website-green)](https://your-website.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://harendra2000pss.github.io)
 
 ![Animated Header](https://github.com/harendra2000pss/your-repo/blob/main/header.gif)
 
